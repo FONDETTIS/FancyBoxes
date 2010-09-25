@@ -1,0 +1,76 @@
+/* ---------------------------------------------
+	FancyBoxes
+------------------------------------------------ */
+/* Width and height of the _whole_ image that is used for all 3 states */
+span.fb_holder {
+  width: 20px;
+  height: 60px;
+}
+
+/* width and height is the widt of your FancyBox. With margin-right you can set the space between the label text and the box
+ * with margin-top you can adjust the vertical position of your box */
+span.fb_holderWrap {
+  width: 20px;
+  height: 20px;
+  margin-right:5px;
+  margin-top:-2px;
+}
+
+
+/* specify your background-images */
+label.fb_checkbox span.fb_holder {
+  background: url(../img/box-1.png) 0px 0px no-repeat;
+}
+label.fb_radio span.fb_holder {
+  background: url(../img/circle-1.png) 0px 0px no-repeat;
+}
+
+/* Space between two label-lines */
+label.fb_box {
+  margin-top:5px;
+}
+
+/* checked-state, if you use a bigger or smaller image you need to adjust the background-position accordingly */
+label.fb_checked span.fb_holder, label.fb_checked span.fb_holder {
+  top: -40px !important;
+}
+/* hover-state */
+label.fb_checkbox.fb_hover span.fb_holder, label.fb_radio.fb_hover span.fb_holder {
+  top: -20px;
+}
+
+/* focus-state */
+label.fb_focus
+{
+	background-color:#efefef; 
+}
+
+
+/* ----- YOU DON'T NEED TO EDIT THE VALUES UNDERNEATH ----- */
+label.fb_inline {
+  float: left;
+  margin: 0 10px 0 0;
+}
+input.fb_hidden {
+  position: absolute;
+  left: -10000px;
+}
+label.fb_box span.fb_holder {
+  display: block;
+  position: absolute;
+}
+
+
+label.fb_box  span.fb_holderWrap {
+  display: block;
+  float: left;
+  position: relative;
+  overflow: hidden;
+}
+
+label.fb_box span.fb_holder {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}

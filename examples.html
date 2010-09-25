@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>FancyBoxes - Prettier checkboxes and radio buttons</title>
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/prototype/1.6.0.3/prototype.js'></script>
+<link rel="stylesheet" type="text/css" href="fancyboxes/fancyboxes.css" />
+<script type="text/javascript" src="fancyboxes/fancyboxes.js"></script>
+<script type="text/javascript">
+	var fb;
+	document.observe('dom:loaded', function(){
+		fb = new FancyBoxes({elements: '#demos input'});
+	});
+</script>
+<style type="text/css">
+	.example-2 label.fb_checkbox span.fb_holder {
+		background-image: url(img/box-green.png); 
+	}	
+	.example-2 label.fb_radio span.fb_holder {
+		background-image: url(img/circle-green.png); 
+	}
+	.example-3 label.fb_checkbox span.fb_holder {
+		background-image: url(img/box-red-green.png); 
+	}	
+	.example-3 label.fb_radio span.fb_holder {
+		background-image: url(img/circle-red-green.png); 
+	}	
+	.example-4 label.fb_checkbox span.fb_holder {
+		background-image: url(img/box-inner.png); 
+	}	
+	.example-4 label.fb_radio span.fb_holder {
+		background-image: url(img/circle-inner.png); 
+	}	
+	.example-5 label.fb_checkbox span.fb_holder {
+		background-image: url(img/box-tick.png); 
+	}	
+	.example-5 label.fb_radio span.fb_holder {
+		background-image: url(img/circle-tick.png); 
+	}	
+	.example-6 label.fb_checkbox span.fb_holder {
+		background-image: url(img/box-icon-2.png); 
+	}	
+	.example-6 label.fb_radio span.fb_holder {
+		background-image: url(img/circle-icon-2.png); 
+	}		
+	.example-7 label.fb_checkbox span.fb_holder {
+		background-image: url(img/box-icon.png); 
+	}	
+	.example-7 label.fb_radio span.fb_holder {
+		background-image: url(img/circle-icon.png); 
+	}		
+	.example-8 label.fb_checkbox span.fb_holder {
+		background-image: url(img/thumb.png); 
+	}	
+	.example-9 label.fb_checkbox span.fb_holder {
+		background-image: url(img/connect.png); 
+	}					
+</style>
+
+</head>
+<body>
+<div id="wrapper">
+<h1>FancyBoxes</h1>
+<div class="chapter" id="intro"><h2>Intro</h2>
+<p>FancyBoxes is a simple <a href="http://prototypejs.org">Prototype</a> based script, which allows you to individually style your forms. If you ever wanted your checkboxes and radioboxes to look consistant in different browsers or just wanted them to look prettier - FancyBoxes is for you. It's unobtrusive and easy to use.</p>
+<p>It's inspired by the jQuery-plugin <a href="http://www.no-margin-for-errors.com/projects/prettyCheckboxes/">prettyCheckboxes</a> from Stephane Caron.</p>
+<p>If you need help or have features requests feel free to comment to this blog post: <a href="http://functino.com/2009/02/better-looking-radio-buttons-and-checkboxes-with-fancyboxes">Better looking radio buttons and checkboxes with FancyBoxes</a>.</p>
+</div>
+<div class="chapter" id="demos"><h2>Demos</h2>
+<p>Just have a look and see what FancyBoxes can do for you.</p>
+<form action="#" class="demo_container">
+<fieldset><legend>FancyBoxes - Checkbox</legend>
+	<label><input type="checkbox" name="a[]"> Hey, click me!</label>
+	<label><input type="checkbox" name="a[]" checked> Oh no! Click me!</label>
+	<label><input type="checkbox" name="a[]" checked> I'm so clickable</label>
+</fieldset>
+<fieldset><legend>FancyBoxes - Radio</legend>
+	<label><input type="radio" name="b" checked > Select me!</label>
+	<label><input type="radio" name="b"> I'm awesome.</label>
+	<label><input type="radio" name="b"> Hello, hello.</label>
+</fieldset>
+<br style="clear:both" />
+
+
+ 
+<fieldset class="example-2"><legend>FancyBoxes - Checkbox</legend>
+	<label><input type="checkbox" name="a2[]"> Hey, click me!</label>
+	<label><input type="checkbox" name="a2[]" checked> Oh no! Click me!</label>
+	<label><input type="checkbox" name="a2[]"> I'm so clickable</label>
+</fieldset>
+<fieldset class="example-2"><legend>FancyBoxes - Radio</legend>
+	<label><input type="radio" name="b2"> Select me!</label>
+	<label><input type="radio" name="b2"> I'm awesome.</label>
+	<label><input type="radio" name="b2" checked> Hello, hello.</label>
+</fieldset>
+<br style="clear:both" />
+
+
+
+<fieldset class="example-3"><legend>FancyBoxes checkboxes as a "ticklist"</legend>
+<label><input type="checkbox" name="tick[]" value="Dog" checked/> Dog</label>
+<label><input type="checkbox" name="tick[]" value="Cat"/> Cat</label>
+<label><input type="checkbox" name="tick[]" value="Mouse"/> Mouse</label>
+</fieldset>
+<fieldset class="example-3"><legend>FancyBoxes - Radio</legend>
+	<label><input type="radio" name="b3"> Select me!</label>
+	<label><input type="radio" name="b3"> I'm awesome.</label>
+	<label><input type="radio" name="b3" checked> Hello, hello.</label>
+</fieldset>
+<br style="clear:both" />
+
+<fieldset class="example-4"><legend>FancyBoxes - Checkbox</legend>
+	<label><input type="checkbox" name="a4[]"> Checkbox A</label>
+	<label><input type="checkbox" name="a4[]" checked> Checkbox B</label>
+	<label><input type="checkbox" name="a4[]"> Checkbox C</label>
+</fieldset>
+<fieldset class="example-4"><legend>FancyBoxes - Radio</legend>
+	<label><input type="radio" name="b4"> Radio A</label>
+	<label><input type="radio" name="b4"> Radio B</label>
+	<label><input type="radio" name="b4" checked> Radio C</label>
+</fieldset>                                                      
+<br style="clear:both" />
+
+<fieldset class="example-5"><legend>FancyBoxes - Checkbox</legend>
+	<label><input type="checkbox" name="a5[]"> Checkbox A</label>
+	<label><input type="checkbox" name="a5[]" checked> Checkbox B</label>
+	<label><input type="checkbox" name="a5[]"> Checkbox C</label>
+</fieldset>
+<fieldset class="example-5"><legend>FancyBoxes - Radio</legend>
+	<label><input type="radio" name="b5"> Radio A</label>
+	<label><input type="radio" name="b5"> Radio B</label>
+	<label><input type="radio" name="b5" checked> Radio C</label>
+</fieldset>
+<br style="clear:both" />
+
+<fieldset class="example-6"><legend>FancyBoxes - Checkbox</legend>
+	<label><input type="checkbox" name="a6[]"> Checkbox A</label>
+	<label><input type="checkbox" name="a6[]" checked> Checkbox B</label>
+	<label><input type="checkbox" name="a6[]"> Checkbox C</label>
+</fieldset>
+<fieldset class="example-6"><legend>FancyBoxes - Radio</legend>
+	<label><input type="radio" name="b6"> Radio A</label>
+	<label><input type="radio" name="b6"> Radio B</label>
+	<label><input type="radio" name="b6" checked> Radio C</label>
+</fieldset>
+<br style="clear:both" />
+
+<fieldset class="example-7"><legend>FancyBoxes - Checkbox</legend>
+	<label><input type="checkbox" name="a7[]"> Checkbox A</label>
+	<label><input type="checkbox" name="a7[]" checked> Checkbox B</label>
+	<label><input type="checkbox" name="a7[]"> Checkbox C</label>
+</fieldset>
+<fieldset class="example-7"><legend>FancyBoxes - Radio</legend>
+	<label><input type="radio" name="b7"> Radio A</label>
+	<label><input type="radio" name="b7"> Radio B</label>
+	<label><input type="radio" name="b7" checked> Radio C</label>
+</fieldset>
+<br style="clear:both" />
+<fieldset class="example-8"><legend>FancyBoxes - Checkbox</legend>
+	<label><input type="checkbox" name="a8[]"> Thumb up / Thumb down</label>
+</fieldset>
+<fieldset class="example-9"><legend>FancyBoxes - Checkbox</legend>
+	<label><input type="checkbox" name="a9[]"> Connect / Disconnect</label>
+</fieldset>
+<br style="clear:both" />
+<p>You can use the following two buttons to bind or unbind FancyBoxes. That means that you can switch off the FancyBoxes and display the radio and checkbox elements as normal.<br />
+<button onclick="fb.bind(); return false;">FancyBoxes#bind</button>
+<button onclick="fb.unbind(); return false;">FancyBoxes#unbind</button>
+</p>
+</form>			
+</div>
+
+
+<div class="chapter" id="installation"><h2>Installation</h2>
+<p>FancyBoxes requires the JavaScript framework Prototype. You can <a href="http://prototypejs.org">grab it here</a> or include it directly via the <a href='http://code.google.com/apis/ajaxlibs/documentation/index.html#prototype' target='_blank'>Google AJAX Libraries API</a>. FancyBoxes uses CSS for styling the checkboxes and radio-buttons so you have to include the css-file which is included in the download. Upload the images for the boxes and your're almost done. All you have to do now is to include the JavaScript and CSS files. If you have other paths or want other images: check the image-paths in the css-file.</p>
+<p>It's as simple as this:</p>
+	<div class="code"> 
+      <pre class="html">
+&lt;script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/prototype/1.6.0.3/prototype.js'&gt;&lt;/script&gt;
+&lt;script type='text/javascript' src='/fancyboxes/fancyboxes.js'&gt;&lt;/script&gt;
+&lt;link rel="stylesheet" type="text/css" href="/fancyboxes/fancyboxes.css" /&gt;</pre>
+	</div>
+<p>
+If you don't want to load an exta Stylesheet you could simply copy the contents of /fancyboxes/fancyboxes.css to your default css-file.	
+</p>
+</div>
+
+
+<div class="chapter" id="howtouse"><h2>How to use FancyBoxes</h2>
+<p>Usage is really simple. If you use the defaults provided by FancyBoxes all you have to do is this simple call:</p>
+	<div class="code"> 
+      <pre class="js">new FancyBoxes();</pre>
+	</div>
+<p>
+This will convert all your radio-buttons and checkboxes into FancyBoxes. No other steps requried. If JavaScript is disabled the form will still work as normal.</p>
+<p>Your input-elements need to be inside a label tag or must have a label tag associated, like so:</p>
+	<div class="code"> 
+      <pre class="html">&lt;label&gt;&lt;input type="text" name="radio" type="radio" value="a" /&gt; Choose A&lt;/label&gt;
+&lt;label&gt;&lt;input type="text" name="radio" type="radio" value="b" /&gt; Choose B&lt;/label&gt;
+&lt;label&gt;&lt;input type="text" name="radio" type="radio" value="c" /&gt; Choose C&lt;/label&gt;</pre>
+	</div>
+or
+	<div class="code"> 
+      <pre class="html">&lt;input type="text" name="checkbox" type="checkbox" value="a" id="option_a"/&gt; &lt;label for="option_a"&gt;Choose A&lt;/label&gt;</pre>
+	</div>
+</div>
+
+
+<div class="chapter" id="options"><h2>FancyBoxes options and API</h2>
+<p>FancyBoxes has some options, they are all listed below with their defaul values:</p>
+	<div class="code"> 
+      <pre class="js">new FancyBoxes({
+	elements: 'input[type=checkbox],input[type=radio]', 
+	autoBind: true, // convert boxes automatically, if set to false you have to call FancyBoxes.bind()
+	cssPrefix: 'fb_', // prefix for all css-classes used by FancyBoxes
+	display: 'list', // display the box as inline or as list,
+	images: false // here you can specify the images to use. It has to be a hash like: {radio: "image.png", checkbox: "image2.png"}
+});</pre>
+	</div>
+<h3>Options</h3>	
+<div class="subchapter">	
+<h4>elements</h4>
+With this option you can specify which input-elements should be replaced with FancyBoxes. By default all checkboxes and radio-buttons are converted. This option can either take a string, which will be treated as a css-selector or an array of input elements. Here are some examples:
+	<div class="code"> 
+      <pre class="js">// only convert checkboxes
+new FancyBoxes({elements: 'input[type=checkbox]'});
+
+// only convert input-elements with the class "fb" 
+new FancyBoxes({elements: 'input.fb'});
+      
+// only convert checkboxes and radio-buttons which are inside an element with the class "fancy"
+new FancyBoxes({elements: '.fancy input[type=checkbox], .fancy input[type=radio]'});
+
+// create a array of input-elements and use that:
+var my_array = $$('input[type=checkbox]');
+new FancyBoxes({elements: my_array}); 
+	  </pre>
+	</div>	
+</div>
+<div class="subchapter">
+<h4>autoBind</h4>
+By default FancyBoxes converts the selected elements when you create it with new FancyBoxes(). If you want to you can disable this automatic conversion and call bind() yourself:
+	<div class="code"> 
+      <pre class="js">var fb = new FancyBoxes({autoBind: false});
+// later you can call      
+fb.bind();</pre>
+	</div>	
+</div>
+<div class="subchapter">		
+<h4>cssPrefix</h4>		
+FancyBoxes uses a couple of other css-classes to style the boxes. It is theoretically possible that you already use these classes. To not run into this problem you can tell FancyBoxes to use a prefix for all it's classnames:
+
+	<div class="code"> 
+      <pre class="js">new FancyBoxes({cssPrefix: 'my_fb'});</pre>
+	</div>	
+This will prefix all internal classes with the string "my_fb". By default "fb_" is used. If you change this settings you must also change the css-file to match this changes.
+</div>
+<div class="subchapter">	
+<h4>display</h4>	
+With this setting you can tell FancyBoxes if you want to render the boxes inline or as a list. The default is list: all boxes will be in a new line. 
+	<div class="code"> 
+      <pre class="js">var fb = new FancyBoxes({display: 'list'});</pre>
+	</div>	
+</div>	
+<div class="subchapter">	
+<h4>images</h4>	
+The recommended way to customize the look of FancyBoxes is to use CSS. If you just want to replace the used images you can however do this with this option. 
+	<div class="code"> 
+      <pre class="js">var fb = new FancyBoxes({images: {radio: "radio.png", checkbox: "checkbox.png"});</pre>
+	</div>	
+</div>
+
+<h3>API</h3>
+There are two public methods that you can call:
+<div class="subchapter">	
+<h4>bind()</h4>	
+If you use the "autoBind: false" option you have to call bind() yourself, like so:
+	<div class="code"> 
+      <pre class="js">var fb = new FancyBoxes({autoBind: false});
+fb.bind();</pre>
+	</div>	
+</div>
+<div class="subchapter">
+<h4>unbind()</h4>	
+To unbind FancyBoxes you can call unbind(). All FancyBoxes are then converted back to "normal" radio-buttons and checkboxes:	
+	<div class="code"> 
+      <pre class="js">var fb = new FancyBoxes();
+fb.unbind();</pre>
+	</div>	
+</div>		
+</div>
+
+<div class="chapter" id="customize">
+<h2>Customize FancyBoxes</h2>
+If you want to customize the look of your radio-buttons and checkboxes you can create your own image and use this with FancyBoxes. FancyBoxes comes already with a bunch of different images out of the box:
+<br />
+<img src="img/box-1.png" alt="" /> 
+<img src="img/circle-1.png" alt="" />
+<img src="img/box-green.png" alt="" /> 
+<img src="img/circle-green.png" alt="" />
+<img src="img/box-icon.png" alt="" /> 
+<img src="img/circle-icon.png" alt="" />
+<img src="img/box-icon-2.png" alt="" /> 
+<img src="img/circle-icon-2.png" alt="" /> 
+<img src="img/box-inner.png" alt="" /> 
+<img src="img/circle-inner.png" alt="" />
+<img src="img/box-red-green.png" alt="" /> 
+<img src="img/circle-red-green.png" alt="" />
+<img src="img/box-tick.png" alt="" /> 
+<img src="img/circle-tick.png" alt="" />
+<img src="img/thumb.png" alt="" /> 
+<img src="img/connect.png" alt="" />
+<br />
+<p>
+If you want to create your own keep in mind: Every image contains all three states (checked, unchecked, hovered). If you need bigger or smaller images you have to edit the stylesheet accordingly.</p>
+<p>To use other images is easy. You could either use the "images"-option described above or add a new css rule:</p>
+	<div class="code"> 
+      <pre class="css">label.fb_checkbox span.fb_holder {
+	background-image: url(fb/custom_checkbox.png); 
+}
+label.fb_radio span.fb_holder {
+	background-image: url(fb/custom_radio.png); 
+}</pre>
+	</div>	
+You can add additonal classes to your label-elements and use this in your CSS:
+	<div class="code"> 
+      <pre class="html">&lt;label class="xy"&gt;&lt;input type="checkbox" name="xy" value="xy" /&gt; xy&lt;/label&gt;
+&lt;label class="ab"&gt;&lt;input type="checkbox" name="ab" value="ab" /&gt; ab&lt;/label&gt;
+...  
+&lt;style type="text/css"&gt;    
+label.fb_checkbox.xy span.fb_holder {
+	background-image: url(fb/custom_checkbox_xy.png); 
+}
+label.fb_checkbox.ab span.fb_holder {
+	background-image: url(fb/custom_checkbox_ab.png); 
+}
+&lt;/style&gt;
+</pre>
+	</div>	
+Or you can simply wrap another element around your boxes and give them a class and use it in your css:
+	<div class="code"> 
+      <pre class="html">&lt;div class="xy"&gt;&lt;label class="xy"&gt;&lt;input type="checkbox" name="xy" value="xy" /&gt; xy&lt;/label&gt;
+&lt;label class="ab"&gt;&lt;input type="checkbox" name="ab" value="ab" /&gt; ab&lt;/label&gt;&lt;/div&gt;
+...  
+&lt;style type="text/css"&gt;
+.xy label.fb_checkbox span.fb_holder {
+	background-image: url(fb/custom_checkbox_xy.png); 
+}
+&lt;/style&gt;
+</pre>
+	</div>	
+
+In the fancyboxes.zip file you'll find a directory named "scalable". It contains a boxes.svg file which you can open and edit with the free software "inkscape". The file contains some sample images that you can use as a template for your own.
+</div>
+
+<div class="chapter" id="license">
+<h2>License</h2>
+Just grab it and use it...free.
+</div>
+
+<div class="chapter" id="download">
+<h2>Download</h2>
+<a href="http://functino.com/?dl_id=2" style="font-weight:bold; font-size:17px; text-decoration:underline;">Download fancyboxes.zip</a>
+</div>
+
+<div class="chapter" id="changelog">
+<h2>Changelog</h2>
+<h3>2008-03-07 - added focus state</h3>
+<p>I added a focus state. With this new feature FancyBoxes is usable if you only want to use you're keybord. Tab through the boxes and select them via space.</p>
+</p>
+</div>
+
+<div class="chapter" id="contact">
+<h2>Contact</h2>
+If you need help or have features requests feel free to comment to this blog post: <a href="http://functino.com/2009/02/better-looking-radio-buttons-and-checkboxes-with-fancyboxes">Better looking radio buttons and checkboxes with FancyBoxes</a>.
+</div>
+
+
+</div>
+
+<style type="text/css">
+/* This is NOT related to the styling of FancyBoxes. Look into the "fancyboxes.css" file instead! */
+* { margin: 0; padding: 0; }
+html { min-height: 100%; margin-bottom: 1px; background: #e7e7e7;}
+body { background: #e7e7e7; font-family: Arial, Helvetica, sans-serif; font-size: 0.7em; color: #2b2b2b; }
+#wrapper { padding:30px; }
+.demo_container { background-color:white; margin:20px; padding:5px; font-size:13px; }
+.demo_container fieldset { width:45%; float:left; margin:7px; padding:5px; }
+h1, h2, h3, h4, h5, h6 { font-family: Georgia, serif; font-style: italic; font-weight: normal;}
+h1 { display: block; color: #1E90FF; }
+h2 { margin-bottom: 5px; font-size: 1.6em;}
+h3 { margin-bottom: 3px; font-size: 1.5em; margin-left:7px;}
+h4 { margin-bottom: 2px; font-size: 1.3em;}
+div.code { margin-left: 20px; margin-right:30px; margin-bottom: 10px; border: 2px solid #dadada; background: #fff; padding: 6px; padding-left: 10px; padding-right: 10px; font-size: 11px; color: #444444; }
+.chapter { float: left; width: 100%; clear: both; margin-bottom: 10px; padding-bottom: 10px; border-bottom: 2px solid #dadada; }
+.subchapter { margin-left:20px; }
+.lined { border-bottom: 1px dotted #999999; }
+.demos { clear: both; width: 100%; display: block; margin-top: 10px;}
+label {	display:block; }
+a { color: #0E80FF; text-decoration: none; }
+a:hover { background: #0E80FF; color: #fff; }
+p { margin-bottom: 0.7em; }
+</style>
+</body>
+</html>

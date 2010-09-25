@@ -1,0 +1,1727 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2722"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docbase="C:\Apache\xampp\htdocs\fancyboxes\fb\scalable"
+   sodipodi:docname="boxes.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs2724">
+    <linearGradient
+       id="linearGradient18366">
+      <stop
+         style="stop-color:#c6c6c6;stop-opacity:1;"
+         offset="0"
+         id="stop18368" />
+      <stop
+         style="stop-color:#e1e1e1;stop-opacity:1;"
+         offset="1"
+         id="stop18370" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient14420">
+      <stop
+         id="stop14422"
+         offset="0"
+         style="stop-color:#ff430c;stop-opacity:1;" />
+      <stop
+         id="stop14424"
+         offset="1"
+         style="stop-color:#e11b19;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient14414">
+      <stop
+         style="stop-color:#e1e1e1;stop-opacity:1;"
+         offset="0"
+         id="stop14416" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop14418" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient12333">
+      <stop
+         style="stop-color:#8ad71c;stop-opacity:1;"
+         offset="0"
+         id="stop12335" />
+      <stop
+         style="stop-color:#13841e;stop-opacity:1;"
+         offset="1"
+         id="stop12337" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6733">
+      <stop
+         id="stop6735"
+         offset="0"
+         style="stop-color:#13841e;stop-opacity:1;" />
+      <stop
+         id="stop6737"
+         offset="1"
+         style="stop-color:#8ad71c;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5758">
+      <stop
+         style="stop-color:#e11b19;stop-opacity:1;"
+         offset="0"
+         id="stop5760" />
+      <stop
+         style="stop-color:#ff430c;stop-opacity:1;"
+         offset="1"
+         id="stop5762" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5752">
+      <stop
+         id="stop5754"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop5756"
+         offset="1"
+         style="stop-color:#e1e1e1;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3723">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3725" />
+      <stop
+         style="stop-color:#e1e1e1;stop-opacity:1;"
+         offset="1"
+         id="stop3727" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3723"
+       id="linearGradient8163"
+       x1="221"
+       y1="501.71484"
+       x2="235.04465"
+       y2="501.71484"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-729.72633,-273.67465)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3723"
+       id="linearGradient10163"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-702.40681,-312.75502)"
+       x1="221"
+       y1="501.71484"
+       x2="235.04465"
+       y2="501.71484" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3723"
+       id="linearGradient10175"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-729.72633,-273.67465)"
+       x1="221"
+       y1="501.71484"
+       x2="235.04465"
+       y2="501.71484" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3723"
+       id="linearGradient10183"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-729.72633,-273.67465)"
+       x1="221"
+       y1="501.71484"
+       x2="235.04465"
+       y2="501.71484" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3723"
+       id="linearGradient10203"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-729.72633,-273.67465)"
+       x1="221"
+       y1="501.71484"
+       x2="235.04465"
+       y2="501.71484" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3723"
+       id="linearGradient10205"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-729.72633,-273.67465)"
+       x1="221"
+       y1="501.71484"
+       x2="235.04465"
+       y2="501.71484" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3723"
+       id="linearGradient10207"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-729.72633,-273.67465)"
+       x1="221"
+       y1="501.71484"
+       x2="235.04465"
+       y2="501.71484" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3723"
+       id="linearGradient10220"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-729.72633,-273.67465)"
+       x1="221"
+       y1="501.71484"
+       x2="235.04465"
+       y2="501.71484" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3723"
+       id="linearGradient10222"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-729.72633,-273.67465)"
+       x1="221"
+       y1="501.71484"
+       x2="235.04465"
+       y2="501.71484" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3723"
+       id="linearGradient10224"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-729.72633,-273.67465)"
+       x1="221"
+       y1="501.71484"
+       x2="235.04465"
+       y2="501.71484" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3723"
+       id="linearGradient10226"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-729.72633,-273.67465)"
+       x1="221"
+       y1="501.71484"
+       x2="235.04465"
+       y2="501.71484" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5752"
+       id="linearGradient6304"
+       x1="280"
+       y1="514.86218"
+       x2="285"
+       y2="514.86218"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9433962,0,0,0.9433962,-752.37162,-348.21908)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5752"
+       id="linearGradient6318"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9433962,0,0,0.9433962,-784.37155,-213.69229)"
+       x1="280"
+       y1="514.86218"
+       x2="285"
+       y2="514.86218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5752"
+       id="linearGradient6320"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9433962,0,0,0.9433962,-782.37158,-213.21908)"
+       x1="280"
+       y1="514.86218"
+       x2="285"
+       y2="514.86218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5752"
+       id="linearGradient6322"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9433962,0,0,0.9433962,-782.80018,-213.21908)"
+       x1="280"
+       y1="514.86218"
+       x2="285"
+       y2="514.86218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5752"
+       id="linearGradient8305"
+       gradientUnits="userSpaceOnUse"
+       x1="289.75845"
+       y1="514.961"
+       x2="295.24612"
+       y2="514.961" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5752"
+       id="linearGradient8329"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9433962,0,0,0.9433962,-759.37159,-348.21908)"
+       x1="280"
+       y1="514.86218"
+       x2="285"
+       y2="514.86218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5752"
+       id="linearGradient8341"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9433962,0,0,0.9433962,-766.37156,-348.21908)"
+       x1="280"
+       y1="514.86218"
+       x2="285"
+       y2="514.86218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5752"
+       id="linearGradient8391"
+       gradientUnits="userSpaceOnUse"
+       x1="289.75845"
+       y1="514.961"
+       x2="295.24612"
+       y2="514.961" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5752"
+       id="linearGradient8403"
+       gradientUnits="userSpaceOnUse"
+       x1="289.75845"
+       y1="514.961"
+       x2="295.24612"
+       y2="514.961" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12333"
+       id="linearGradient10375"
+       gradientUnits="userSpaceOnUse"
+       x1="289.75845"
+       y1="514.961"
+       x2="295.24612"
+       y2="514.961" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6733"
+       id="linearGradient10377"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9433962,0,0,0.9433962,233.35289,-645.21908)"
+       x1="280"
+       y1="514.86218"
+       x2="285"
+       y2="514.86218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12333"
+       id="linearGradient12331"
+       x1="526.50372"
+       y1="-294.5"
+       x2="531.2207"
+       y2="-294.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-28.999995,135)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6733"
+       id="linearGradient12357"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9433962,0,0,0.9433962,226.35286,-645.21908)"
+       x1="280"
+       y1="514.86218"
+       x2="285"
+       y2="514.86218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12333"
+       id="linearGradient12359"
+       gradientUnits="userSpaceOnUse"
+       x1="526.50372"
+       y1="-294.5"
+       x2="531.2207"
+       y2="-294.5"
+       gradientTransform="translate(-36.000026,135)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6733"
+       id="linearGradient12379"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9433962,0,0,0.9433962,219.35289,-645.21908)"
+       x1="280"
+       y1="514.86218"
+       x2="285"
+       y2="514.86218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12333"
+       id="linearGradient12381"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-42.999996,135)"
+       x1="526.50372"
+       y1="-294.5"
+       x2="531.2207"
+       y2="-294.5" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6733"
+       id="linearGradient13358"
+       x1="289.75845"
+       y1="514.961"
+       x2="295.24612"
+       y2="514.961"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12333"
+       id="linearGradient13370"
+       gradientUnits="userSpaceOnUse"
+       x1="289.75845"
+       y1="514.961"
+       x2="295.24612"
+       y2="514.961" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6733"
+       id="linearGradient13372"
+       gradientUnits="userSpaceOnUse"
+       x1="289.75845"
+       y1="514.961"
+       x2="295.24612"
+       y2="514.961" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12333"
+       id="linearGradient13385"
+       gradientUnits="userSpaceOnUse"
+       x1="289.75845"
+       y1="514.961"
+       x2="295.24612"
+       y2="514.961" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6733"
+       id="linearGradient13387"
+       gradientUnits="userSpaceOnUse"
+       x1="289.75845"
+       y1="514.961"
+       x2="295.24612"
+       y2="514.961" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6733"
+       id="linearGradient13433"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9433962,0,0,0.9433962,233.35289,-667.21908)"
+       x1="280"
+       y1="514.86218"
+       x2="285"
+       y2="514.86218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12333"
+       id="linearGradient13435"
+       gradientUnits="userSpaceOnUse"
+       x1="526.50372"
+       y1="-294.5"
+       x2="531.2207"
+       y2="-294.5"
+       gradientTransform="translate(-28.999995,113)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3723"
+       id="linearGradient13437"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9433962,0,0,0.9433962,-759.37146,-304.21905)"
+       x1="280"
+       y1="514.86218"
+       x2="285"
+       y2="514.86218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14414"
+       id="linearGradient13439"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1021.7243,476)"
+       x1="526.50372"
+       y1="-294.5"
+       x2="531.2207"
+       y2="-294.5" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5758"
+       id="linearGradient13441"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9433962,0,0,0.9433962,219.35289,-667.21908)"
+       x1="280"
+       y1="514.86218"
+       x2="285"
+       y2="514.86218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14420"
+       id="linearGradient13443"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-42.999996,113)"
+       x1="526.50372"
+       y1="-294.5"
+       x2="531.2207"
+       y2="-294.5" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12333"
+       id="linearGradient14458"
+       gradientUnits="userSpaceOnUse"
+       x1="289.75845"
+       y1="514.961"
+       x2="295.24612"
+       y2="514.961" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6733"
+       id="linearGradient14460"
+       gradientUnits="userSpaceOnUse"
+       x1="289.75845"
+       y1="514.961"
+       x2="295.24612"
+       y2="514.961" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5752"
+       id="linearGradient14462"
+       gradientUnits="userSpaceOnUse"
+       x1="289.75845"
+       y1="514.961"
+       x2="295.24612"
+       y2="514.961" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14414"
+       id="linearGradient14464"
+       gradientUnits="userSpaceOnUse"
+       x1="289.75845"
+       y1="514.961"
+       x2="295.24612"
+       y2="514.961" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14420"
+       id="linearGradient14466"
+       gradientUnits="userSpaceOnUse"
+       x1="289.75845"
+       y1="514.961"
+       x2="295.24612"
+       y2="514.961" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5758"
+       id="linearGradient14468"
+       gradientUnits="userSpaceOnUse"
+       x1="289.75845"
+       y1="514.961"
+       x2="295.24612"
+       y2="514.961" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5752"
+       id="linearGradient18390"
+       gradientUnits="userSpaceOnUse"
+       x1="289.75845"
+       y1="514.961"
+       x2="295.24612"
+       y2="514.961" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5752"
+       id="linearGradient19402"
+       gradientUnits="userSpaceOnUse"
+       x1="289.75845"
+       y1="514.961"
+       x2="295.24612"
+       y2="514.961" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5752"
+       id="linearGradient19408"
+       gradientUnits="userSpaceOnUse"
+       x1="289.75845"
+       y1="514.961"
+       x2="295.24612"
+       y2="514.961" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5752"
+       id="linearGradient19428"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9433962,0,0,0.9433962,-766.37156,-373.21908)"
+       x1="280"
+       y1="514.86218"
+       x2="285"
+       y2="514.86218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5752"
+       id="linearGradient19468"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9433962,0,0,0.9433962,-759.37153,-373.21908)"
+       x1="280"
+       y1="514.86218"
+       x2="285"
+       y2="514.86218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5752"
+       id="linearGradient19474"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9433962,0,0,0.9433962,-752.37153,-373.21908)"
+       x1="280"
+       y1="514.86218"
+       x2="285"
+       y2="514.86218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5752"
+       id="linearGradient19494"
+       gradientUnits="userSpaceOnUse"
+       x1="289.75845"
+       y1="514.961"
+       x2="295.24612"
+       y2="514.961" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12333"
+       id="linearGradient20473"
+       x1="82.303703"
+       y1="492.33063"
+       x2="92.970749"
+       y2="492.33063"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.4491772,0,0,0.4491772,58.276591,278.58578)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5752"
+       id="linearGradient20505"
+       gradientUnits="userSpaceOnUse"
+       x1="289.75845"
+       y1="514.961"
+       x2="295.24612"
+       y2="514.961" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12333"
+       id="linearGradient20507"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.4491772,0,0,0.4491772,58.27659,271.58578)"
+       x1="82.303703"
+       y1="492.33063"
+       x2="92.970749"
+       y2="492.33063" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5752"
+       id="linearGradient20517"
+       gradientUnits="userSpaceOnUse"
+       x1="289.75845"
+       y1="514.961"
+       x2="295.24612"
+       y2="514.961" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5752"
+       id="linearGradient21498"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.8490566,0,0,0.8490566,-739.74736,-349.85255)"
+       x1="280"
+       y1="514.86218"
+       x2="285"
+       y2="514.86218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12333"
+       id="linearGradient21502"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.4491772,0,0,0.4491772,48.276591,278.58578)"
+       x1="82.303703"
+       y1="492.33063"
+       x2="92.970749"
+       y2="492.33063" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5752"
+       id="linearGradient21520"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.8490566,0,0,0.8490566,-732.77173,-349.9118)"
+       x1="280"
+       y1="514.86218"
+       x2="285"
+       y2="514.86218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12333"
+       id="linearGradient21522"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.4491772,0,0,0.4491772,48.217343,271.61015)"
+       x1="82.303703"
+       y1="492.33063"
+       x2="92.970749"
+       y2="492.33063" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5752"
+       id="linearGradient21534"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.8490566,0,0,0.8490566,-725.77173,-349.9118)"
+       x1="280"
+       y1="514.86218"
+       x2="285"
+       y2="514.86218" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.4"
+     inkscape:cx="43.357024"
+     inkscape:cy="564.50512"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1280"
+     inkscape:window-height="728"
+     inkscape:window-x="0"
+     inkscape:window-y="45"
+     showgrid="true" />
+  <metadata
+     id="metadata2727">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       inkscape:export-ydpi="257.14001"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\circle-icon-2.png"
+       y="482.36218"
+       x="37"
+       height="21"
+       width="7"
+       id="rect2466"
+       style="opacity:1;fill:#000000;fill-opacity:0;stroke:none;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0;stroke:none;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2464"
+       width="7"
+       height="21"
+       x="47"
+       y="482.36218"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\box-icon-2.png"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-ydpi="257.14001" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0;stroke:none;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect19478"
+       width="7"
+       height="21"
+       x="109"
+       y="482.36218"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\box-inner.png"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-ydpi="257.14001" />
+    <rect
+       y="482.36218"
+       x="166"
+       height="21"
+       width="7"
+       id="rect13391"
+       style="opacity:1;fill:#000000;fill-opacity:0;stroke:none;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\circle-green.png"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-ydpi="257.14001" />
+    <rect
+       inkscape:export-ydpi="257.14001"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\box-green.png"
+       style="opacity:1;fill:#000000;fill-opacity:0;stroke:none;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect13389"
+       width="7"
+       height="21"
+       x="156"
+       y="482.36218" />
+    <rect
+       y="482.36218"
+       x="178"
+       height="21"
+       width="7"
+       id="rect13431"
+       style="opacity:1;fill:#000000;fill-opacity:0;stroke:none;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\box-red-green.png"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-ydpi="257.14001" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot10228"
+       style="font-family:Baveuse"
+       transform="translate(0.6129761,0.5469666)"><flowRegion
+         id="flowRegion10230"><rect
+           id="rect10232"
+           width="22.446426"
+           height="22.517853"
+           x="169.55357"
+           y="505.84433"
+           style="font-family:Baveuse" /></flowRegion><flowPara
+         id="flowPara10234"
+         style="font-family:Baveuse">xxxxasfdxx</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:url(#linearGradient6304);fill-opacity:1;stroke:#313131;stroke-width:0.28301889;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4179"
+       width="4.7169809"
+       height="4.7169809"
+       x="-488.2207"
+       y="135.14151"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\box-1"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-ydpi="257.14001" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:url(#linearGradient8305);fill-opacity:1;stroke:#505050;stroke-width:0.31062192;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path8303"
+       sodipodi:cx="292.50229"
+       sodipodi:cy="514.961"
+       sodipodi:rx="2.588516"
+       sodipodi:ry="2.588516"
+       d="M 295.0908 514.961 A 2.588516 2.588516 0 1 1  289.91377,514.961 A 2.588516 2.588516 0 1 1  295.0908 514.961 z"
+       transform="matrix(0,-0.9111362,0.9111362,0,-321.69961,766.37162)"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\circle-1.png"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-ydpi="257.14001" />
+    <rect
+       transform="matrix(0,-1,1,0,0,0)"
+       y="135.14151"
+       x="-495.2207"
+       height="4.7169809"
+       width="4.7169809"
+       id="rect8319"
+       style="opacity:1;fill:url(#linearGradient8329);fill-opacity:1;stroke:#313131;stroke-width:0.28301889;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\box-1"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-ydpi="257.14001" />
+    <flowRoot
+       inkscape:export-ydpi="257.14001"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\box-1"
+       style="fill:#cccccc"
+       transform="matrix(0.4842123,0,0,0.4842123,53.238777,243.59684)"
+       id="flowRoot8321"
+       xml:space="preserve"><flowRegion
+         id="flowRegion8323"><rect
+           style="fill:#cccccc"
+           y="503.61218"
+           x="170.35715"
+           height="22.767857"
+           width="27.5"
+           id="rect8325" /></flowRegion><flowPara
+         style="fill:#cccccc;font-family:Beesknees ITC"
+         id="flowPara8327">x</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:url(#linearGradient8341);fill-opacity:1;stroke:#313131;stroke-width:0.28301889;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8331"
+       width="4.7169809"
+       height="4.7169809"
+       x="-502.2207"
+       y="135.14151"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\box-1"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-ydpi="257.14001" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8333"
+       transform="matrix(0.4842123,0,0,0.4842123,53.238777,250.59681)"
+       style="fill:#333333"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\box-1"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-ydpi="257.14001"><flowRegion
+         id="flowRegion8335"><rect
+           id="rect8337"
+           width="27.5"
+           height="22.767857"
+           x="170.35715"
+           y="503.61218"
+           style="fill:#333333" /></flowRegion><flowPara
+         id="flowPara8339"
+         style="fill:#333333;font-family:Beesknees ITC">x</flowPara></flowRoot>    <flowRoot
+       inkscape:export-ydpi="257.14001"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\box-1"
+       style="fill:#333333"
+       transform="matrix(0.4842123,0,0,0.4842123,53.238777,250.59681)"
+       id="flowRoot8347"
+       xml:space="preserve"><flowRegion
+         id="flowRegion8349"><rect
+           style="fill:#333333"
+           y="503.61218"
+           x="170.35715"
+           height="22.767857"
+           width="27.5"
+           id="rect8351" /></flowRegion><flowPara
+         style="fill:#333333;font-family:Beesknees ITC"
+         id="flowPara8353">x</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8371"
+       transform="matrix(0.4842123,0,0,0.4842123,63.238777,250.59681)"
+       style="fill:#333333"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\circle-1.png"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-ydpi="257.14001"><flowRegion
+         id="flowRegion8373"><rect
+           id="rect8375"
+           width="27.5"
+           height="22.767857"
+           x="170.35715"
+           y="503.61218"
+           style="fill:#333333" /></flowRegion><flowPara
+         id="flowPara8377"
+         style="fill:#333333;font-family:Beesknees ITC">x</flowPara></flowRoot>    <path
+       transform="matrix(0,-0.9111362,0.9111362,0,-321.69961,759.37162)"
+       d="M 295.0908 514.961 A 2.588516 2.588516 0 1 1  289.91377,514.961 A 2.588516 2.588516 0 1 1  295.0908 514.961 z"
+       sodipodi:ry="2.588516"
+       sodipodi:rx="2.588516"
+       sodipodi:cy="514.961"
+       sodipodi:cx="292.50229"
+       id="path8381"
+       style="opacity:1;fill:url(#linearGradient8391);fill-opacity:1;stroke:#505050;stroke-width:0.31062192;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:type="arc"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\circle-1.png"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-ydpi="257.14001" />
+    <flowRoot
+       inkscape:export-ydpi="257.14001"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\circle-1.png"
+       style="fill:#cccccc"
+       transform="matrix(0.4842123,0,0,0.4842123,63.238777,243.59681)"
+       id="flowRoot8383"
+       xml:space="preserve"><flowRegion
+         id="flowRegion8385"><rect
+           style="fill:#cccccc"
+           y="503.61218"
+           x="170.35715"
+           height="22.767857"
+           width="27.5"
+           id="rect8387" /></flowRegion><flowPara
+         style="fill:#cccccc;font-family:Beesknees ITC"
+         id="flowPara8389">x</flowPara></flowRoot>    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:url(#linearGradient8403);fill-opacity:1;stroke:#505050;stroke-width:0.31062192;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path8393"
+       sodipodi:cx="292.50229"
+       sodipodi:cy="514.961"
+       sodipodi:rx="2.588516"
+       sodipodi:ry="2.588516"
+       d="M 295.0908 514.961 A 2.588516 2.588516 0 1 1  289.91377,514.961 A 2.588516 2.588516 0 1 1  295.0908 514.961 z"
+       transform="matrix(0,-0.9111362,0.9111362,0,-321.69961,752.37162)"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\circle-1.png"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-ydpi="257.14001" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0;stroke:none;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8405"
+       width="7"
+       height="21"
+       x="134"
+       y="482.36218"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\box-1"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-ydpi="257.14001" />
+    <rect
+       y="482.36218"
+       x="144"
+       height="21"
+       width="7"
+       id="rect10345"
+       style="opacity:1;fill:#000000;fill-opacity:0;stroke:none;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\circle-1.png"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-ydpi="257.14001" />
+    <path
+       inkscape:export-ydpi="257.14001"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\circle-green.png"
+       transform="matrix(0,-0.9111362,0.9111362,0,-299.69961,766.37162)"
+       d="M 295.0908 514.961 A 2.588516 2.588516 0 1 1  289.91377,514.961 A 2.588516 2.588516 0 1 1  295.0908 514.961 z"
+       sodipodi:ry="2.588516"
+       sodipodi:rx="2.588516"
+       sodipodi:cy="514.961"
+       sodipodi:cx="292.50229"
+       id="path10347"
+       style="opacity:1;fill:url(#linearGradient10375);fill-opacity:1;stroke:url(#linearGradient13358);stroke-width:0.31062192;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:type="arc" />
+    <rect
+       inkscape:export-ydpi="257.14001"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\box-green.png"
+       y="-161.85849"
+       x="497.50372"
+       height="4.7169809"
+       width="4.7169809"
+       id="rect10349"
+       style="opacity:1;fill:url(#linearGradient10377);fill-opacity:1;stroke:url(#linearGradient12331);stroke-width:0.28301889;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <flowRoot
+       inkscape:export-ydpi="257.14001"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\box-green.png"
+       style="fill:#333333"
+       transform="matrix(0.4842123,0,0,0.4842123,75.238777,250.59681)"
+       id="flowRoot10351"
+       xml:space="preserve"><flowRegion
+         id="flowRegion10353"><rect
+           style="fill:#333333"
+           y="503.61218"
+           x="170.35715"
+           height="22.767857"
+           width="27.5"
+           id="rect10355" /></flowRegion><flowPara
+         style="fill:#333333;font-family:Beesknees ITC"
+         id="flowPara10357">x</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot10359"
+       transform="matrix(0.4842123,0,0,0.4842123,75.238777,250.59681)"
+       style="fill:#0b280b"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\box-green.png"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-ydpi="257.14001"><flowRegion
+         id="flowRegion10361"><rect
+           id="rect10363"
+           width="27.5"
+           height="22.767857"
+           x="170.35715"
+           y="503.61218"
+           style="fill:#0b280b" /></flowRegion><flowPara
+         id="flowPara10365"
+         style="fill:#0b280b;font-family:Beesknees ITC">x</flowPara></flowRoot>    <flowRoot
+       inkscape:export-ydpi="257.14001"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\circle-green.png"
+       style="fill:#0b280b"
+       transform="matrix(0.4842123,0,0,0.4842123,85.238777,250.59681)"
+       id="flowRoot10367"
+       xml:space="preserve"><flowRegion
+         id="flowRegion10369"><rect
+           style="fill:#0b280b"
+           y="503.61218"
+           x="170.35715"
+           height="22.767857"
+           width="27.5"
+           id="rect10371" /></flowRegion><flowPara
+         style="fill:#0b280b;font-family:Beesknees ITC"
+         id="flowPara10373">x</flowPara></flowRoot>    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       style="opacity:1;fill:url(#linearGradient12357);fill-opacity:1;stroke:url(#linearGradient12359);stroke-width:0.28301889;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect12339"
+       width="4.7169809"
+       height="4.7169809"
+       x="490.50366"
+       y="-161.85849"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\box-green.png"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-ydpi="257.14001" />
+    <flowRoot
+       inkscape:export-ydpi="257.14001"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\box-green.png"
+       style="fill:#afe9af"
+       transform="matrix(0.4842123,0,0,0.4842123,75.764327,243.6124)"
+       id="flowRoot12349"
+       xml:space="preserve"><flowRegion
+         id="flowRegion12351"><rect
+           style="fill:#afe9af"
+           y="503.61218"
+           x="170.35715"
+           height="22.767857"
+           width="27.5"
+           id="rect12353" /></flowRegion><flowPara
+         style="fill:#afe9af;font-family:Beesknees ITC"
+         id="flowPara12355">?</flowPara></flowRoot>    <rect
+       inkscape:export-ydpi="257.14001"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\box-green.png"
+       y="-161.85849"
+       x="483.50366"
+       height="4.7169809"
+       width="4.7169809"
+       id="rect12361"
+       style="opacity:1;fill:url(#linearGradient12379);fill-opacity:1;stroke:url(#linearGradient12381);stroke-width:0.28301889;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:url(#linearGradient13370);fill-opacity:1;stroke:url(#linearGradient13372);stroke-width:0.31062192;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path13360"
+       sodipodi:cx="292.50229"
+       sodipodi:cy="514.961"
+       sodipodi:rx="2.588516"
+       sodipodi:ry="2.588516"
+       d="M 295.0908 514.961 A 2.588516 2.588516 0 1 1  289.91377,514.961 A 2.588516 2.588516 0 1 1  295.0908 514.961 z"
+       transform="matrix(0,-0.9111362,0.9111362,0,-299.69961,759.37162)"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\circle-green.png"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-ydpi="257.14001" />
+    <path
+       inkscape:export-ydpi="257.14001"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\circle-green.png"
+       transform="matrix(0,-0.9111362,0.9111362,0,-299.69961,752.37162)"
+       d="M 295.0908 514.961 A 2.588516 2.588516 0 1 1  289.91377,514.961 A 2.588516 2.588516 0 1 1  295.0908 514.961 z"
+       sodipodi:ry="2.588516"
+       sodipodi:rx="2.588516"
+       sodipodi:cy="514.961"
+       sodipodi:cx="292.50229"
+       id="path13375"
+       style="opacity:1;fill:url(#linearGradient13385);fill-opacity:1;stroke:url(#linearGradient13387);stroke-width:0.31062192;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:type="arc" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       style="opacity:1;fill:url(#linearGradient13433);fill-opacity:1;stroke:url(#linearGradient13435);stroke-width:0.28301889;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect13393"
+       width="4.7169809"
+       height="4.7169809"
+       x="497.50372"
+       y="-183.85849"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\box-red-green.png"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-ydpi="257.14001" />
+    <rect
+       inkscape:export-ydpi="257.14001"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\box-red-green.png"
+       y="179.14151"
+       x="-495.22064"
+       height="4.7169809"
+       width="4.7169809"
+       id="rect13411"
+       style="opacity:1;fill:url(#linearGradient13437);fill-opacity:1;stroke:url(#linearGradient13439);stroke-width:0.28301889;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0,-1,1,0,0,0)" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       style="opacity:1;fill:url(#linearGradient13441);fill-opacity:1;stroke:url(#linearGradient13443);stroke-width:0.28301889;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect13429"
+       width="4.7169809"
+       height="4.7169809"
+       x="483.50366"
+       y="-183.85849"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\box-red-green.png"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-ydpi="257.14001" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot14426"
+       transform="matrix(0.4842123,0,0,0.4842123,85.764327,243.6124)"
+       style="fill:#afe9af"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\circle-green.png"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-ydpi="257.14001"><flowRegion
+         id="flowRegion14428"><rect
+           id="rect14430"
+           width="27.5"
+           height="22.767857"
+           x="170.35715"
+           y="503.61218"
+           style="fill:#afe9af" /></flowRegion><flowPara
+         id="flowPara14432"
+         style="fill:#afe9af;font-family:Beesknees ITC">?</flowPara></flowRoot>    <rect
+       inkscape:export-ydpi="257.14001"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\circle-red-green.png"
+       style="opacity:1;fill:#000000;fill-opacity:0;stroke:none;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect14434"
+       width="7"
+       height="21"
+       x="186"
+       y="482.36218" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:url(#linearGradient14458);fill-opacity:1;stroke:url(#linearGradient14460);stroke-width:0.31062192;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path14436"
+       sodipodi:cx="292.50229"
+       sodipodi:cy="514.961"
+       sodipodi:rx="2.588516"
+       sodipodi:ry="2.588516"
+       d="M 295.0908 514.961 A 2.588516 2.588516 0 1 1  289.91377,514.961 A 2.588516 2.588516 0 1 1  295.0908 514.961 z"
+       transform="matrix(0,-0.9111362,0.9111362,0,-279.69961,766.37162)"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\circle-red-green.png"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-ydpi="257.14001" />
+    <path
+       inkscape:export-ydpi="257.14001"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\circle-red-green.png"
+       transform="matrix(0,-0.9111362,0.9111362,0,-279.69961,759.37162)"
+       d="M 295.0908 514.961 A 2.588516 2.588516 0 1 1  289.91377,514.961 A 2.588516 2.588516 0 1 1  295.0908 514.961 z"
+       sodipodi:ry="2.588516"
+       sodipodi:rx="2.588516"
+       sodipodi:cy="514.961"
+       sodipodi:cx="292.50229"
+       id="path14446"
+       style="opacity:1;fill:url(#linearGradient14462);fill-opacity:1;stroke:url(#linearGradient14464);stroke-width:0.31062192;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:url(#linearGradient14466);fill-opacity:1;stroke:url(#linearGradient14468);stroke-width:0.31062192;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path14448"
+       sodipodi:cx="292.50229"
+       sodipodi:cy="514.961"
+       sodipodi:rx="2.588516"
+       sodipodi:ry="2.588516"
+       d="M 295.0908 514.961 A 2.588516 2.588516 0 1 1  289.91377,514.961 A 2.588516 2.588516 0 1 1  295.0908 514.961 z"
+       transform="matrix(0,-0.9111362,0.9111362,0,-279.69961,752.37162)"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\circle-red-green.png"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-ydpi="257.14001" />
+    <path
+       inkscape:export-ydpi="257.14001"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\circle-inner.png"
+       transform="matrix(0,-0.9111362,0.9111362,0,-346.69961,766.37162)"
+       d="M 295.0908 514.961 A 2.588516 2.588516 0 1 1  289.91377,514.961 A 2.588516 2.588516 0 1 1  295.0908 514.961 z"
+       sodipodi:ry="2.588516"
+       sodipodi:rx="2.588516"
+       sodipodi:cy="514.961"
+       sodipodi:cx="292.50229"
+       id="path18380"
+       style="opacity:1;fill:url(#linearGradient18390);fill-opacity:1;stroke:#505050;stroke-width:0.31062192;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path18394"
+       sodipodi:cx="134.31873"
+       sodipodi:cy="508.616"
+       sodipodi:rx="3.314563"
+       sodipodi:ry="3.1882939"
+       d="M 137.63329 508.616 A 3.314563 3.1882939 0 1 1  131.00416,508.616 A 3.314563 3.1882939 0 1 1  137.63329 508.616 z"
+       transform="matrix(0.519215,0,0,0.539778,52.791277,225.29087)"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\circle-inner.png"
+       inkscape:export-xdpi="257"
+       inkscape:export-ydpi="257" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:url(#linearGradient19402);fill-opacity:1;stroke:#505050;stroke-width:0.31062192;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path19398"
+       sodipodi:cx="292.50229"
+       sodipodi:cy="514.961"
+       sodipodi:rx="2.588516"
+       sodipodi:ry="2.588516"
+       d="M 295.0908 514.961 A 2.588516 2.588516 0 1 1  289.91377,514.961 A 2.588516 2.588516 0 1 1  295.0908 514.961 z"
+       transform="matrix(0,-0.9111362,0.9111362,0,-346.69961,759.37161)"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\circle-inner.png"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-ydpi="257.14001" />
+    <path
+       transform="matrix(0.519215,0,0,0.539778,52.79128,218.29086)"
+       d="M 137.63329 508.616 A 3.314563 3.1882939 0 1 1  131.00416,508.616 A 3.314563 3.1882939 0 1 1  137.63329 508.616 z"
+       sodipodi:ry="3.1882939"
+       sodipodi:rx="3.314563"
+       sodipodi:cy="508.616"
+       sodipodi:cx="134.31873"
+       id="path19400"
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:type="arc"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\circle-inner.png"
+       inkscape:export-xdpi="257"
+       inkscape:export-ydpi="257" />
+    <path
+       inkscape:export-ydpi="257.14001"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\circle-inner.png"
+       transform="matrix(0,-0.9111362,0.9111362,0,-346.69961,752.37161)"
+       d="M 295.0908 514.961 A 2.588516 2.588516 0 1 1  289.91377,514.961 A 2.588516 2.588516 0 1 1  295.0908 514.961 z"
+       sodipodi:ry="2.588516"
+       sodipodi:rx="2.588516"
+       sodipodi:cy="514.961"
+       sodipodi:cx="292.50229"
+       id="path19404"
+       style="opacity:1;fill:url(#linearGradient19408);fill-opacity:1;stroke:#505050;stroke-width:0.31062192;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:type="arc" />
+    <rect
+       inkscape:export-ydpi="257.14001"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\box-inner.png"
+       transform="matrix(0,-1,1,0,0,0)"
+       y="110.14151"
+       x="-502.2207"
+       height="4.7169809"
+       width="4.7169809"
+       id="rect19410"
+       style="opacity:1;fill:url(#linearGradient19428);fill-opacity:1;stroke:#313131;stroke-width:0.28301889;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect19430"
+       width="3.4419999"
+       height="3.4419999"
+       x="110.81055"
+       y="498.17279"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\box-inner.png"
+       inkscape:export-xdpi="257"
+       inkscape:export-ydpi="257" />
+    <rect
+       style="opacity:1;fill:url(#linearGradient19468);fill-opacity:1;stroke:#313131;stroke-width:0.28301889;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect19464"
+       width="4.7169809"
+       height="4.7169809"
+       x="-495.22067"
+       y="110.14151"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\box-inner.png"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-ydpi="257.14001" />
+    <rect
+       y="491.17276"
+       x="110.81055"
+       height="3.4419999"
+       width="3.4419999"
+       id="rect19466"
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\box-inner.png"
+       inkscape:export-xdpi="257"
+       inkscape:export-ydpi="257" />
+    <rect
+       inkscape:export-ydpi="257.14001"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\box-inner.png"
+       transform="matrix(0,-1,1,0,0,0)"
+       y="110.14151"
+       x="-488.22067"
+       height="4.7169809"
+       width="4.7169809"
+       id="rect19470"
+       style="opacity:1;fill:url(#linearGradient19474);fill-opacity:1;stroke:#313131;stroke-width:0.28301889;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="257.14001"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\circle-inner.png"
+       y="482.36218"
+       x="119"
+       height="21"
+       width="7"
+       id="rect19476"
+       style="opacity:1;fill:#000000;fill-opacity:0;stroke:none;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="257.14001"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\circle-tick.png"
+       transform="matrix(0,-0.8200226,0.8200225,0,-325.00728,739.72513)"
+       d="M 295.0908 514.961 A 2.588516 2.588516 0 1 1  289.91377,514.961 A 2.588516 2.588516 0 1 1  295.0908 514.961 z"
+       sodipodi:ry="2.588516"
+       sodipodi:rx="2.588516"
+       sodipodi:cy="514.961"
+       sodipodi:cx="292.50229"
+       id="path19492"
+       style="opacity:1;fill:url(#linearGradient19494);fill-opacity:1;stroke:#505050;stroke-width:0.31062192;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:type="arc" />
+    <path
+       style="fill:url(#linearGradient20473);fill-opacity:1;fill-rule:evenodd;stroke:#002f00;stroke-width:0.13475315;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 95.469163,500.25978 L 96.905829,501.40642 L 99.991871,498.1277 L 98.995465,497.40519 L 96.905829,500.642 L 96.105126,499.55777 L 95.469163,500.25978 z "
+       id="path19496"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\circle-tick.png"
+       inkscape:export-xdpi="257"
+       inkscape:export-ydpi="257" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:url(#linearGradient20505);fill-opacity:1;stroke:#505050;stroke-width:0.31062192;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path20499"
+       sodipodi:cx="292.50229"
+       sodipodi:cy="514.961"
+       sodipodi:rx="2.588516"
+       sodipodi:ry="2.588516"
+       d="M 295.0908 514.961 A 2.588516 2.588516 0 1 1  289.91377,514.961 A 2.588516 2.588516 0 1 1  295.0908 514.961 z"
+       transform="matrix(0,-0.8200226,0.8200225,0,-325.00728,732.72513)"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\circle-tick.png"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-ydpi="257.14001" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       id="path20501"
+       d="M 95.469162,493.25978 L 96.905828,494.40642 L 99.99187,491.1277 L 98.995464,490.40519 L 96.905828,493.642 L 96.105125,492.55777 L 95.469162,493.25978 z "
+       style="fill:url(#linearGradient20507);fill-opacity:1;fill-rule:evenodd;stroke:#002f00;stroke-width:0.13475315;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:0.2892562"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\circle-tick.png"
+       inkscape:export-xdpi="257"
+       inkscape:export-ydpi="257" />
+    <path
+       inkscape:export-ydpi="257.14001"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\circle-tick.png"
+       transform="matrix(0,-0.8200226,0.8200225,0,-325.06653,725.7495)"
+       d="M 295.0908 514.961 A 2.588516 2.588516 0 1 1  289.91377,514.961 A 2.588516 2.588516 0 1 1  295.0908 514.961 z"
+       sodipodi:ry="2.588516"
+       sodipodi:rx="2.588516"
+       sodipodi:cy="514.961"
+       sodipodi:cx="292.50229"
+       id="path20511"
+       style="opacity:1;fill:url(#linearGradient20517);fill-opacity:1;stroke:#505050;stroke-width:0.31062192;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:type="arc" />
+    <rect
+       inkscape:export-ydpi="257"
+       inkscape:export-xdpi="257"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\box-tick.png"
+       y="498.17276"
+       x="85.810547"
+       height="3.4419999"
+       width="3.4419999"
+       id="rect21492"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="257.14001"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\box-tick.png"
+       transform="matrix(0,-1,1,0,0,0)"
+       y="85.172005"
+       x="-502.0116"
+       height="4.2452826"
+       width="4.2452831"
+       id="rect21496"
+       style="opacity:1;fill:url(#linearGradient21498);fill-opacity:1;stroke:#313131;stroke-width:0.25471702;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       id="path21500"
+       d="M 85.469163,500.25978 L 86.905829,501.40642 L 89.991871,498.1277 L 88.995465,497.40519 L 86.905829,500.642 L 86.105126,499.55777 L 85.469163,500.25978 z "
+       style="fill:url(#linearGradient21502);fill-opacity:1;fill-rule:evenodd;stroke:#002f00;stroke-width:0.13475315;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\box-tick.png"
+       inkscape:export-xdpi="257"
+       inkscape:export-ydpi="257" />
+    <rect
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect21512"
+       width="3.4419999"
+       height="3.4419999"
+       x="85.751297"
+       y="491.19714"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\box-tick.png"
+       inkscape:export-xdpi="257"
+       inkscape:export-ydpi="257" />
+    <rect
+       style="opacity:1;fill:url(#linearGradient21520);fill-opacity:1;stroke:#313131;stroke-width:0.25471702;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect21514"
+       width="4.2452831"
+       height="4.2452826"
+       x="-495.03598"
+       y="85.112755"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\box-tick.png"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-ydpi="257.14001" />
+    <path
+       style="fill:url(#linearGradient21522);fill-opacity:1;fill-rule:evenodd;stroke:#002f00;stroke-width:0.13475315;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:0.33884298"
+       d="M 85.409915,493.28415 L 86.846581,494.43079 L 89.932623,491.15207 L 88.936217,490.42956 L 86.846581,493.66637 L 86.045878,492.58214 L 85.409915,493.28415 z "
+       id="path21516"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\box-tick.png"
+       inkscape:export-xdpi="257"
+       inkscape:export-ydpi="257" />
+    <rect
+       inkscape:export-ydpi="257"
+       inkscape:export-xdpi="257"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\box-tick.png"
+       y="484.19714"
+       x="85.751297"
+       height="3.4419999"
+       width="3.4419999"
+       id="rect21526"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="257.14001"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\box-tick.png"
+       transform="matrix(0,-1,1,0,0,0)"
+       y="85.112755"
+       x="-488.03598"
+       height="4.2452826"
+       width="4.2452831"
+       id="rect21528"
+       style="opacity:1;fill:url(#linearGradient21534);fill-opacity:1;stroke:#313131;stroke-width:0.25471702;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="257.14001"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\circle-tick.png"
+       y="482.36218"
+       x="94"
+       height="21"
+       width="7"
+       id="rect22507"
+       style="opacity:1;fill:#000000;fill-opacity:0;stroke:none;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0;stroke:none;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect22509"
+       width="7"
+       height="21"
+       x="84"
+       y="482.36218"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\box-tick.png"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-ydpi="257.14001" />
+    <image
+       y="497.40683"
+       x="60"
+       id="image2393"
+       height="5"
+       width="5"
+       sodipodi:absref="C:\Apache\xampp\htdocs\fancyboxes\fb\scalable\accept.png"
+       xlink:href="accept.png"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\circle-icon.png"
+       inkscape:export-xdpi="257"
+       inkscape:export-ydpi="257" />
+    <image
+       y="483.36218"
+       x="60"
+       id="image2413"
+       height="5"
+       width="5"
+       sodipodi:absref="C:\Apache\xampp\htdocs\fancyboxes\fb\scalable\delete.png"
+       xlink:href="delete.png"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\circle-icon.png"
+       inkscape:export-xdpi="257"
+       inkscape:export-ydpi="257" />
+    <image
+       y="497.40683"
+       x="70"
+       id="image2423"
+       height="5"
+       width="5"
+       sodipodi:absref="C:\Apache\xampp\htdocs\fancyboxes\fb\scalable\tick.png"
+       xlink:href="tick.png"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\box-icon.png"
+       inkscape:export-xdpi="257"
+       inkscape:export-ydpi="257" />
+    <image
+       y="490.36218"
+       x="70"
+       id="image2433"
+       height="5"
+       width="5"
+       sodipodi:absref="C:\Apache\xampp\htdocs\fancyboxes\fb\scalable\help.png"
+       xlink:href="help.png"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\box-icon.png"
+       inkscape:export-xdpi="257"
+       inkscape:export-ydpi="257" />
+    <image
+       y="483.36218"
+       x="70"
+       id="image2443"
+       height="5"
+       width="5"
+       sodipodi:absref="C:\Apache\xampp\htdocs\fancyboxes\fb\scalable\cross.png"
+       xlink:href="cross.png"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\box-icon.png"
+       inkscape:export-xdpi="257"
+       inkscape:export-ydpi="257" />
+    <image
+       xlink:href="help.png"
+       sodipodi:absref="C:\Apache\xampp\htdocs\fancyboxes\fb\scalable\help.png"
+       width="5"
+       height="5"
+       id="image2446"
+       x="60"
+       y="490.36218"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\circle-icon.png"
+       inkscape:export-xdpi="257"
+       inkscape:export-ydpi="257" />
+    <rect
+       inkscape:export-ydpi="257.14001"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\box-icon.png"
+       y="482.36218"
+       x="69"
+       height="21"
+       width="7"
+       id="rect2448"
+       style="opacity:1;fill:#000000;fill-opacity:0;stroke:none;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0;stroke:none;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2450"
+       width="7"
+       height="21"
+       x="59"
+       y="482.36218"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\circle-icon.png"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-ydpi="257.14001" />
+    <image
+       inkscape:export-ydpi="257"
+       inkscape:export-xdpi="257"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\circle-icon-2.png"
+       xlink:href="accept.png"
+       sodipodi:absref="C:\Apache\xampp\htdocs\fancyboxes\fb\scalable\accept.png"
+       width="5"
+       height="5"
+       id="image2452"
+       x="38"
+       y="497.40683" />
+    <image
+       inkscape:export-ydpi="257"
+       inkscape:export-xdpi="257"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\circle-icon-2.png"
+       xlink:href="delete.png"
+       sodipodi:absref="C:\Apache\xampp\htdocs\fancyboxes\fb\scalable\delete.png"
+       width="5"
+       height="5"
+       id="image2454"
+       x="38"
+       y="483.36218" />
+    <image
+       inkscape:export-ydpi="257"
+       inkscape:export-xdpi="257"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\box-icon-2.png"
+       xlink:href="tick.png"
+       sodipodi:absref="C:\Apache\xampp\htdocs\fancyboxes\fb\scalable\tick.png"
+       width="5"
+       height="5"
+       id="image2456"
+       x="48"
+       y="497.40683" />
+    <image
+       inkscape:export-ydpi="257"
+       inkscape:export-xdpi="257"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\box-icon-2.png"
+       xlink:href="cross.png"
+       sodipodi:absref="C:\Apache\xampp\htdocs\fancyboxes\fb\scalable\cross.png"
+       width="5"
+       height="5"
+       id="image2460"
+       x="48"
+       y="483.36218" />
+    <image
+       y="490.36218"
+       x="38"
+       id="image2468"
+       height="5"
+       width="5"
+       sodipodi:absref="C:\Apache\xampp\htdocs\fancyboxes\fb\scalable\delete.png"
+       xlink:href="delete.png"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\circle-icon-2.png"
+       inkscape:export-xdpi="257"
+       inkscape:export-ydpi="257"
+       style="opacity:0.805" />
+    <image
+       y="490.36218"
+       x="48"
+       id="image2470"
+       height="5"
+       width="5"
+       sodipodi:absref="C:\Apache\xampp\htdocs\fancyboxes\fb\scalable\cross.png"
+       xlink:href="cross.png"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\box-icon-2.png"
+       inkscape:export-xdpi="257"
+       inkscape:export-ydpi="257"
+       style="opacity:0.798" />
+    <image
+       y="490.36218"
+       x="30"
+       id="image4421"
+       height="5"
+       width="5"
+       sodipodi:absref="C:\Apache\xampp\htdocs\fancyboxes\fb\scalable\disconnect.png"
+       xlink:href="disconnect.png"
+       style="opacity:0.81404959"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\connect.png"
+       inkscape:export-xdpi="257"
+       inkscape:export-ydpi="257" />
+    <image
+       y="497.36218"
+       x="30"
+       id="image4431"
+       height="5"
+       width="5"
+       sodipodi:absref="C:\Apache\xampp\htdocs\fancyboxes\fb\scalable\connect.png"
+       xlink:href="connect.png"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\connect.png"
+       inkscape:export-xdpi="257"
+       inkscape:export-ydpi="257" />
+    <image
+       xlink:href="disconnect.png"
+       sodipodi:absref="C:\Apache\xampp\htdocs\fancyboxes\fb\scalable\disconnect.png"
+       width="5"
+       height="5"
+       id="image4434"
+       x="30"
+       y="483.36218"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\connect.png"
+       inkscape:export-xdpi="257"
+       inkscape:export-ydpi="257" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0;stroke:none;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5405"
+       width="7"
+       height="21"
+       x="29"
+       y="481.82648"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\connect.png"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-ydpi="257.14001" />
+    <image
+       y="490.36218"
+       x="20"
+       id="image5414"
+       height="5"
+       width="5"
+       sodipodi:absref="C:\Apache\xampp\htdocs\fancyboxes\fb\scalable\thumb_down.png"
+       xlink:href="thumb_down.png"
+       style="fill:#ffd7dd;fill-opacity:0.29192535;opacity:0.80991736"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\thumb.png"
+       inkscape:export-xdpi="257"
+       inkscape:export-ydpi="257" />
+    <image
+       y="497.36218"
+       x="20"
+       id="image5424"
+       height="5"
+       width="5"
+       sodipodi:absref="C:\Apache\xampp\htdocs\fancyboxes\fb\scalable\thumb_up.png"
+       xlink:href="thumb_up.png"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\thumb.png"
+       inkscape:export-xdpi="257"
+       inkscape:export-ydpi="257" />
+    <image
+       style="fill:#ffd7dd;fill-opacity:0.29192535"
+       xlink:href="thumb_down.png"
+       sodipodi:absref="C:\Apache\xampp\htdocs\fancyboxes\fb\scalable\thumb_down.png"
+       width="5"
+       height="5"
+       id="image5427"
+       x="20"
+       y="483.36218"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\thumb.png"
+       inkscape:export-xdpi="257"
+       inkscape:export-ydpi="257" />
+    <rect
+       inkscape:export-ydpi="257.14001"
+       inkscape:export-xdpi="257.14001"
+       inkscape:export-filename="C:\Apache\xampp\htdocs\fancyboxes\fb\thumb.png"
+       y="482.36218"
+       x="19"
+       height="21"
+       width="7"
+       id="rect6398"
+       style="opacity:1;fill:#000000;fill-opacity:0;stroke:none;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>
